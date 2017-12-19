@@ -1,5 +1,5 @@
 {
-  "name": "Narrative",
+  "name": "CookMe",
   "version": "1.0.0",
   "description": "",
   "devDependencies": {
@@ -21,6 +21,7 @@
     "bootstrap": "^3.3.7",
     "express": "^4.16.2",
     "mdbootstrap": "^4.4.3",
+    "mdbreact": "^4.0.0",
     "moment": "^2.19.1",
     "prop-types": "^15.6.0",
     "react": "^15.6.1",
